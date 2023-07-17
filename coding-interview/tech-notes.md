@@ -1,0 +1,3 @@
+- Ask clarifying questions
+- Add comments to outline code structure
+- Discuss
