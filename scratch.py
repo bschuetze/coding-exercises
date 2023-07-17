@@ -7,9 +7,3 @@ for i in range(1, 101):
         print("Host")
     else:
         print(str(i))
-
-        \
-78
-17
-28
-77
